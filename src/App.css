@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Rubik:wght@500&display=swap");
+
+.body {
+  padding: 20px;
+}
+.body h5 {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  /* font-family: "Rubik", sans-serif; */
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0.1px;
+  font-size: 36px;
+}
+.body h6 {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  letter-spacing: 0.2px;
+  text-decoration: underline #000;
+}
